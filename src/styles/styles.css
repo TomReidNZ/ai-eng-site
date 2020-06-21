@@ -427,7 +427,7 @@ h5 {
   .item-wrapper:first-child .service-title {
     position: relative;
     left: -0.264em;
-    left: calc(0.02em + (-0.264 - 0.02) * ((100vw - 678px) / (1920 - 678)));
+    left: calc(-1*(0.02em + (0.264 - 0.02) * ((100vw - 678px) / (1920 - 678))));
   }
   .item-wrapper:nth-child(4) .service-title {
     position: relative;
@@ -443,7 +443,7 @@ h5 {
   .item-wrapper:nth-child(6) .service-title {
     position: relative;
     left: 0.4655em;
-    left: calc(64.4px + (0.4655 - 64.4) * ((100vw - 678px) / (1920 - 678)));
+    left: calc(0.191em + (0.6 - 0.191) * ((100vw - 678px) / (1920 - 678)));
   }
 
   .section-4 {
