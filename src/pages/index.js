@@ -3,6 +3,7 @@ import { graphql } from "gatsby";
 
 import Layout from "../layout";
 import SEO from "../components/SEO";
+import "../layout/layout.css"
 
 class Index extends React.Component {
   render() {
@@ -62,7 +63,7 @@ class Index extends React.Component {
                   alt="brain"
                 />
               </div>
-              <h5 className="service-title">AI AND ML</h5>
+              <h5 className="service-title first-v">AI AND ML</h5>
             </div>
             <div className="item-wrapper">
               <div className="image-wrapper">

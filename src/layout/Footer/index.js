@@ -2,7 +2,6 @@ import React from "react";
 import { Link } from "gatsby";
 import { Container, Nav } from "react-bootstrap";
 // import PillLinkList from "../../Components/PillLinkList";
-import "./Footer.scss";
 import { Badge } from "react-bootstrap";
 
 import config from "../../../data/SiteConfig";

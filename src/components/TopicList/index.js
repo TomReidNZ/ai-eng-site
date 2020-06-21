@@ -2,7 +2,6 @@ import React from "react";
 import { Link } from "gatsby";
 import { Col } from "react-bootstrap";
 
-import "./TopicList.scss";
 
 const TopicList = ({ title, topics }) => (
   <>

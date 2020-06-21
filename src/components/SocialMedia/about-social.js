@@ -1,5 +1,4 @@
 import React from "react";
-import "./SocialMedia.scss";
 
 const SocialMediaAbout = () => (
   <div className="SocialMediaAbout-main">

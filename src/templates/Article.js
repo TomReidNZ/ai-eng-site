@@ -2,14 +2,10 @@ import React from "react";
 import { graphql } from "gatsby";
 import { Container } from "react-bootstrap";
 
-import { getArticleGithubLink } from "../utility/articles";
-import kebabCase from "lodash/kebabCase";
 import PillLinkList from "../components/PillLinkList";
 
 import Layout from "../layout";
-import ArticleTags from "../components/ArticleTags";
 import SEO from "../components/SEO";
-import "./Article.scss";
 const dateToLoad = (dateToSplit, dateUsed) => {
   let newSubstring1 = 0;
   let newSubstring2 = 0;
