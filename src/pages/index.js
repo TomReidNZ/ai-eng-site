@@ -83,7 +83,7 @@ class Index extends React.Component {
                   alt="hands shaking"
                 />
               </div>
-              <h5 className="service-title">RESPONSIBLE AI</h5>
+              <h5 className="service-title third-v">RESPONSIBLE AI</h5>
             </div>
             <div className="item-wrapper">
               <div className="image-wrapper">
@@ -93,7 +93,7 @@ class Index extends React.Component {
                   alt="phone with medical gear"
                 />
               </div>
-              <h5 className="service-title">HEALTHCARE</h5>
+              <h5 className="service-title forth-v">HEALTHCARE</h5>
             </div>
             <div className="item-wrapper">
               <div className="image-wrapper">
