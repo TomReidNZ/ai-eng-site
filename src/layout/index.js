@@ -1,6 +1,6 @@
 import "./layout.css"
 
-import "../styles/styles.scss";
+import "../styles/styles.css";
 
 import React from "react";
 import Helmet from "react-helmet";
