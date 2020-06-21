@@ -7,9 +7,6 @@ import Layout from "../layout";
 import SEO from "../components/SEO";
 import SocialMediaAbout from "../components/SocialMedia/about-social.js";
 
-// import ImageHero from "../components/ImageHero";
-// import TopicList from "../components/TopicList";
-import "./about.scss";
 
 class AboutPage extends Component {
   render() {

@@ -4,7 +4,6 @@ import { Card } from "react-bootstrap";
 import kebabCase from "lodash/kebabCase";
 import ArticlePagination from "../ArticlePagination";
 
-import "./ArticleList.scss";
 
 import PillLinkList from "../PillLinkList";
 
